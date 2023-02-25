@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.exe
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.deps.json
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.runtimeconfig.json
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.dll
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ref\ideeek.dll
+C:\Users\admin\source\repos\ideeek\bin\Debug\net5.0\ideeek.pdb
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.AssemblyInfo.cs
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.dll
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ref\ideeek.dll
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.pdb
+C:\Users\admin\source\repos\ideeek\obj\Debug\net5.0\ideeek.genruntimeconfig.cache

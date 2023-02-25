@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.exe
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.deps.json
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.runtimeconfig.json
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.runtimeconfig.dev.json
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.dll
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\ref\1hpClashRoyale.dll
+C:\Users\admin\source\repos\1hpClashRoyale\bin\Debug\net5.0\1hpClashRoyale.pdb
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.AssemblyInfo.cs
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.dll
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\ref\1hpClashRoyale.dll
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.pdb
+C:\Users\admin\source\repos\1hpClashRoyale\obj\Debug\net5.0\1hpClashRoyale.genruntimeconfig.cache

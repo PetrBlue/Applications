@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.exe
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.deps.json
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.runtimeconfig.json
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.dll
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\ref\HadaniSlovicekxd.dll
+C:\Users\admin\source\repos\HadaniSlovicekxd\bin\Debug\net5.0\HadaniSlovicekxd.pdb
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.AssemblyInfo.cs
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.dll
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\ref\HadaniSlovicekxd.dll
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.pdb
+C:\Users\admin\source\repos\HadaniSlovicekxd\obj\Debug\net5.0\HadaniSlovicekxd.genruntimeconfig.cache

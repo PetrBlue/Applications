@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.exe
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.deps.json
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.runtimeconfig.json
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.runtimeconfig.dev.json
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.dll
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\ref\SudaLichaPrvocisla.dll
+C:\Users\admin\source\repos\SudaLichaPrvocisla\bin\Debug\net5.0\SudaLichaPrvocisla.pdb
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.AssemblyInfo.cs
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.dll
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\ref\SudaLichaPrvocisla.dll
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.pdb
+C:\Users\admin\source\repos\SudaLichaPrvocisla\obj\Debug\net5.0\SudaLichaPrvocisla.genruntimeconfig.cache

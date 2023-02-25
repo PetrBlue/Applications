@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zbranClass", "zbranClass\zbranClass.csproj", "{B095382D-A230-491E-8B75-F38B715FC75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B095382D-A230-491E-8B75-F38B715FC75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B095382D-A230-491E-8B75-F38B715FC75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B095382D-A230-491E-8B75-F38B715FC75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B095382D-A230-491E-8B75-F38B715FC75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3FE4305-37DE-4279-BA3C-B4697830590A}
+	EndGlobalSection
+EndGlobal

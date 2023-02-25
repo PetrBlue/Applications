@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VrtulnicekAlgoritmizace/1.0.0": {
+        "runtime": {
+          "VrtulnicekAlgoritmizace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VrtulnicekAlgoritmizace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

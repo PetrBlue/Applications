@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\bin\Debug\net6.0-windows\Skoly.exe
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\bin\Debug\net6.0-windows\Skoly.deps.json
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\bin\Debug\net6.0-windows\Skoly.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\bin\Debug\net6.0-windows\Skoly.dll
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\bin\Debug\net6.0-windows\Skoly.pdb
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.Form1.resources
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.dll
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\refint\Skoly.dll
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.pdb
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\Skoly.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\Skoly\Skoly\obj\Debug\net6.0-windows\ref\Skoly.dll

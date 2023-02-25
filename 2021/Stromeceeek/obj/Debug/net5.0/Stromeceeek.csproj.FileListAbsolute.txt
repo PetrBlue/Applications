@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.exe
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.deps.json
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.runtimeconfig.json
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.dll
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\ref\Stromeceeek.dll
+C:\Users\admin\source\repos\Stromeceeek\bin\Debug\net5.0\Stromeceeek.pdb
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.AssemblyInfo.cs
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.dll
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\ref\Stromeceeek.dll
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.pdb
+C:\Users\admin\source\repos\Stromeceeek\obj\Debug\net5.0\Stromeceeek.genruntimeconfig.cache

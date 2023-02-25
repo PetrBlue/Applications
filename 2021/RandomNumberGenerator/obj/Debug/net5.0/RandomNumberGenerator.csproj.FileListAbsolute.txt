@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.exe
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.deps.json
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.runtimeconfig.json
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.runtimeconfig.dev.json
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.dll
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\ref\RandomNumberGenerator.dll
+C:\Users\admin\source\repos\RandomNumberGenerator\bin\Debug\net5.0\RandomNumberGenerator.pdb
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.AssemblyInfo.cs
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.dll
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\ref\RandomNumberGenerator.dll
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.pdb
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.genruntimeconfig.cache
+C:\Users\admin\source\repos\RandomNumberGenerator\obj\Debug\net5.0\RandomNumberGenerator.csproj.AssemblyReference.cache

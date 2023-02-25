@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.exe
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.deps.json
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.runtimeconfig.json
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.runtimeconfig.dev.json
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.dll
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\ref\kym.dll
+C:\Users\admin\source\repos\kym\bin\Debug\net5.0\kym.pdb
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.AssemblyInfo.cs
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.dll
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\ref\kym.dll
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.pdb
+C:\Users\admin\source\repos\kym\obj\Debug\net5.0\kym.genruntimeconfig.cache

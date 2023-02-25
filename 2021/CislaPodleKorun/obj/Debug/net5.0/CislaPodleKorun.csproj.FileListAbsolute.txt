@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.exe
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.deps.json
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.runtimeconfig.json
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.dll
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\ref\CislaPodleKorun.dll
+C:\Users\admin\source\repos\CislaPodleKorun\bin\Debug\net5.0\CislaPodleKorun.pdb
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.AssemblyInfo.cs
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.dll
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\ref\CislaPodleKorun.dll
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.pdb
+C:\Users\admin\source\repos\CislaPodleKorun\obj\Debug\net5.0\CislaPodleKorun.genruntimeconfig.cache

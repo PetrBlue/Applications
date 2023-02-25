@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\bin\Debug\End Of Round.dll
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\bin\Debug\End Of Round.pdb
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\obj\Debug\End Of Round.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\obj\Debug\End Of Round.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\obj\Debug\End Of Round.csproj.CopyComplete
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\obj\Debug\End Of Round.dll
+C:\Users\admin\Desktop\C Sharp\Mods\End Of Round\End Of Round\obj\Debug\End Of Round.pdb

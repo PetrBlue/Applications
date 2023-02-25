@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Test26062022\Test26062022\bin\Debug\net6.0-windows\Test26062022.exe
+C:\Users\admin\Desktop\Test26062022\Test26062022\bin\Debug\net6.0-windows\Test26062022.deps.json
+C:\Users\admin\Desktop\Test26062022\Test26062022\bin\Debug\net6.0-windows\Test26062022.runtimeconfig.json
+C:\Users\admin\Desktop\Test26062022\Test26062022\bin\Debug\net6.0-windows\Test26062022.dll
+C:\Users\admin\Desktop\Test26062022\Test26062022\bin\Debug\net6.0-windows\Test26062022.pdb
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.Form1.resources
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.AssemblyInfo.cs
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.dll
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\refint\Test26062022.dll
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.pdb
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\Test26062022.genruntimeconfig.cache
+C:\Users\admin\Desktop\Test26062022\Test26062022\obj\Debug\net6.0-windows\ref\Test26062022.dll

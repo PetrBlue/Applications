@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\miniblbost3\obj\Debug\net5.0\miniblbost3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\miniblbost3\obj\Debug\net5.0\miniblbost3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\miniblbost3\obj\Debug\net5.0\miniblbost3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\miniblbost3\obj\Debug\net5.0\miniblbost3.AssemblyInfo.cs
+C:\Users\admin\source\repos\miniblbost3\obj\Debug\net5.0\miniblbost3.csproj.CoreCompileInputs.cache

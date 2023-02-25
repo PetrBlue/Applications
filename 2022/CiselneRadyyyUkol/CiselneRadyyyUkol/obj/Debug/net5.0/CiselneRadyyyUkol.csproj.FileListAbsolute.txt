@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.AssemblyInfo.cs
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.exe
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.deps.json
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.runtimeconfig.json
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.dll
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\ref\CiselneRadyyyUkol.dll
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\bin\Debug\net5.0\CiselneRadyyyUkol.pdb
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.dll
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\ref\CiselneRadyyyUkol.dll
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.pdb
+C:\Users\admin\source\repos\CiselneRadyyyUkol\CiselneRadyyyUkol\obj\Debug\net5.0\CiselneRadyyyUkol.genruntimeconfig.cache

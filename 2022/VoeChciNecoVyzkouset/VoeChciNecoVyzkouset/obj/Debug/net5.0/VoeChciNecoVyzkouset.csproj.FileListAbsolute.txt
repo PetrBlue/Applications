@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.exe
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.deps.json
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.runtimeconfig.json
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.runtimeconfig.dev.json
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.dll
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\ref\VoeChciNecoVyzkouset.dll
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\bin\Debug\net5.0\VoeChciNecoVyzkouset.pdb
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.AssemblyInfo.cs
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.dll
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\ref\VoeChciNecoVyzkouset.dll
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.pdb
+C:\Users\admin\source\repos\VoeChciNecoVyzkouset\VoeChciNecoVyzkouset\obj\Debug\net5.0\VoeChciNecoVyzkouset.genruntimeconfig.cache

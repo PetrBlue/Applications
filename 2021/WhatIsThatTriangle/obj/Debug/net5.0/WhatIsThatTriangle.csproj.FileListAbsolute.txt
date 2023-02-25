@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.exe
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.deps.json
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.runtimeconfig.json
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.runtimeconfig.dev.json
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.dll
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\ref\WhatIsThatTriangle.dll
+C:\Users\admin\source\repos\WhatIsThatTriangle\bin\Debug\net5.0\WhatIsThatTriangle.pdb
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.AssemblyInfo.cs
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.dll
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\ref\WhatIsThatTriangle.dll
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.pdb
+C:\Users\admin\source\repos\WhatIsThatTriangle\obj\Debug\net5.0\WhatIsThatTriangle.genruntimeconfig.cache

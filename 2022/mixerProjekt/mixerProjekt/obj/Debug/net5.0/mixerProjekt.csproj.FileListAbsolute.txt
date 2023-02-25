@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.exe
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.deps.json
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.dll
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\ref\mixerProjekt.dll
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\bin\Debug\net5.0\mixerProjekt.pdb
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.dll
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\ref\mixerProjekt.dll
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.pdb
+C:\Users\admin\Desktop\C Sharp\mixerProjekt\mixerProjekt\obj\Debug\net5.0\mixerProjekt.genruntimeconfig.cache

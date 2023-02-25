@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.exe
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.deps.json
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.runtimeconfig.json
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.runtimeconfig.dev.json
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.dll
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\ref\novyprojekthuh.dll
+C:\Users\admin\source\repos\novyprojekthuh\bin\Debug\net5.0\novyprojekthuh.pdb
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.AssemblyInfo.cs
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.dll
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\ref\novyprojekthuh.dll
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.pdb
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.genruntimeconfig.cache
+C:\Users\admin\source\repos\novyprojekthuh\obj\Debug\net5.0\novyprojekthuh.csproj.AssemblyReference.cache
