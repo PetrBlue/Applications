@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.exe
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.deps.json
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.runtimeconfig.json
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.dll
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\ref\VahovyPrumer.dll
+C:\Users\admin\source\repos\VahovyPrumer\bin\Debug\net5.0\VahovyPrumer.pdb
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.AssemblyInfo.cs
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.dll
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\ref\VahovyPrumer.dll
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.pdb
+C:\Users\admin\source\repos\VahovyPrumer\obj\Debug\net5.0\VahovyPrumer.genruntimeconfig.cache

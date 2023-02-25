@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.exe
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.deps.json
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.runtimeconfig.json
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.dll
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\ref\Šibeniiice.dll
+C:\Users\admin\source\repos\Šibeniiice\bin\Debug\net5.0\Šibeniiice.pdb
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.AssemblyInfo.cs
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.dll
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\ref\Šibeniiice.dll
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.pdb
+C:\Users\admin\source\repos\Šibeniiice\obj\Debug\net5.0\Šibeniiice.genruntimeconfig.cache

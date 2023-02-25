@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.exe
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.deps.json
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.runtimeconfig.json
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.dll
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\ref\Clickeeer.dll
+C:\Users\admin\source\repos\Clickeeer\bin\Debug\net5.0\Clickeeer.pdb
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.dll
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\ref\Clickeeer.dll
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.pdb
+C:\Users\admin\source\repos\Clickeeer\obj\Debug\net5.0\Clickeeer.genruntimeconfig.cache

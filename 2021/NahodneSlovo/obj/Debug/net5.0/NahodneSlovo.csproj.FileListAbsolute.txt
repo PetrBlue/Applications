@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.AssemblyInfo.cs
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.exe
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.deps.json
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.runtimeconfig.json
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.runtimeconfig.dev.json
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.dll
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\ref\NahodneSlovo.dll
+C:\Users\admin\source\repos\NahodneSlovo\bin\Debug\net5.0\NahodneSlovo.pdb
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.dll
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\ref\NahodneSlovo.dll
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.pdb
+C:\Users\admin\source\repos\NahodneSlovo\obj\Debug\net5.0\NahodneSlovo.genruntimeconfig.cache

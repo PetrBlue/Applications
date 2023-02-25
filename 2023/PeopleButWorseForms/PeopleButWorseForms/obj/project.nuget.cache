@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x12LARRjoMQfw6AXI3wY5TmlJuPLdPFILYeBLexkE24HXmy8gQhHq2Kf2CAbICih4s0poy2fU4H/InILOIdj5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\C Sharp\\PeopleButWorseForms\\PeopleButWorseForms\\PeopleButWorseForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

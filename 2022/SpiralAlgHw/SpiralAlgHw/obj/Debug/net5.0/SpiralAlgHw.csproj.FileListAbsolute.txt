@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.exe
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.deps.json
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.dll
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\bin\Debug\net5.0\SpiralAlgHw.pdb
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.dll
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\ref\SpiralAlgHw.dll
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.pdb
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\SpiralAlgHw.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\SpiralAlgHw\SpiralAlgHw\obj\Debug\net5.0\refint\SpiralAlgHw.dll

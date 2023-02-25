@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.exe
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.deps.json
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.runtimeconfig.json
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.runtimeconfig.dev.json
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.dll
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\ref\jauznevimuciteljekokot.dll
+C:\Users\admin\source\repos\jauznevimuciteljekokot\bin\Debug\net5.0\jauznevimuciteljekokot.pdb
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.AssemblyInfo.cs
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.dll
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\ref\jauznevimuciteljekokot.dll
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.pdb
+C:\Users\admin\source\repos\jauznevimuciteljekokot\obj\Debug\net5.0\jauznevimuciteljekokot.genruntimeconfig.cache

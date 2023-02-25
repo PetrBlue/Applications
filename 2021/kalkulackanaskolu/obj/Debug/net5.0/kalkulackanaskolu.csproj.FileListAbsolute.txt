@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.AssemblyInfo.cs
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.exe
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.deps.json
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.runtimeconfig.json
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.runtimeconfig.dev.json
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.dll
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\ref\kalkulackanaskolu.dll
+C:\Users\admin\source\repos\kalkulackanaskolu\bin\Debug\net5.0\kalkulackanaskolu.pdb
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.dll
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\ref\kalkulackanaskolu.dll
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.pdb
+C:\Users\admin\source\repos\kalkulackanaskolu\obj\Debug\net5.0\kalkulackanaskolu.genruntimeconfig.cache

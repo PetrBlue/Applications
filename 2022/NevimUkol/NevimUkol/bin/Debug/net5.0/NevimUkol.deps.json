@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NevimUkol/1.0.0": {
+        "runtime": {
+          "NevimUkol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NevimUkol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

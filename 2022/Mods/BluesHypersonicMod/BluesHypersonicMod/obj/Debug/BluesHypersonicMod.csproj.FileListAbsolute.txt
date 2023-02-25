@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\C Sharp\Mods\BluesHypersonicMod\BluesHypersonicMod\bin\Debug\BluesHypersonicMod.dll
+C:\Users\admin\Desktop\C Sharp\Mods\BluesHypersonicMod\BluesHypersonicMod\bin\Debug\BluesHypersonicMod.pdb
+C:\Users\admin\Desktop\C Sharp\Mods\BluesHypersonicMod\BluesHypersonicMod\obj\Debug\BluesHypersonicMod.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Mods\BluesHypersonicMod\BluesHypersonicMod\obj\Debug\BluesHypersonicMod.dll
+C:\Users\admin\Desktop\C Sharp\Mods\BluesHypersonicMod\BluesHypersonicMod\obj\Debug\BluesHypersonicMod.pdb

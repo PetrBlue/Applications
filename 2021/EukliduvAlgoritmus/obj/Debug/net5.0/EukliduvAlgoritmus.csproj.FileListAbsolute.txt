@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.exe
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.deps.json
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.runtimeconfig.json
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.runtimeconfig.dev.json
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.dll
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\ref\EukliduvAlgoritmus.dll
+C:\Users\admin\source\repos\EukliduvAlgoritmus\bin\Debug\net5.0\EukliduvAlgoritmus.pdb
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.AssemblyInfo.cs
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.dll
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\ref\EukliduvAlgoritmus.dll
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.pdb
+C:\Users\admin\source\repos\EukliduvAlgoritmus\obj\Debug\net5.0\EukliduvAlgoritmus.genruntimeconfig.cache

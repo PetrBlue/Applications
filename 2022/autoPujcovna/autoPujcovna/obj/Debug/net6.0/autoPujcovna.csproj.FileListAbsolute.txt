@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\bin\Debug\net6.0\autoPujcovna.exe
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\bin\Debug\net6.0\autoPujcovna.deps.json
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\bin\Debug\net6.0\autoPujcovna.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\bin\Debug\net6.0\autoPujcovna.dll
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\bin\Debug\net6.0\autoPujcovna.pdb
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.dll
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\refint\autoPujcovna.dll
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.pdb
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\autoPujcovna.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\autoPujcovna\autoPujcovna\obj\Debug\net6.0\ref\autoPujcovna.dll

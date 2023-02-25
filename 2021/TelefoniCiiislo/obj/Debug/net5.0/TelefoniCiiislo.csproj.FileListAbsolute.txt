@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.exe
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.deps.json
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.runtimeconfig.json
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.runtimeconfig.dev.json
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.dll
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\ref\TelefoniCiiislo.dll
+C:\Users\admin\source\repos\TelefoniCiiislo\bin\Debug\net5.0\TelefoniCiiislo.pdb
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.AssemblyInfo.cs
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.dll
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\ref\TelefoniCiiislo.dll
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.pdb
+C:\Users\admin\source\repos\TelefoniCiiislo\obj\Debug\net5.0\TelefoniCiiislo.genruntimeconfig.cache

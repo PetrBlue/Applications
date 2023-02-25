@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.AssemblyInfo.cs
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.exe
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.deps.json
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.runtimeconfig.json
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.dll
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\ref\Hospuuudka.dll
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\bin\Debug\net5.0\Hospuuudka.pdb
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.dll
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\ref\Hospuuudka.dll
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.pdb
+C:\Users\admin\Desktop\Úkoly\Hospuuudka\Hospuuudka\obj\Debug\net5.0\Hospuuudka.genruntimeconfig.cache

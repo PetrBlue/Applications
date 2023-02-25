@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\bin\Debug\net6.0\Sorts.exe
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\bin\Debug\net6.0\Sorts.deps.json
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\bin\Debug\net6.0\Sorts.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\bin\Debug\net6.0\Sorts.dll
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\bin\Debug\net6.0\Sorts.pdb
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.dll
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\refint\Sorts.dll
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.pdb
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\Sorts.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\Sorts\Sorts\obj\Debug\net6.0\ref\Sorts.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.exe
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.deps.json
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.runtimeconfig.json
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.runtimeconfig.dev.json
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.dll
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\ref\NahodneSlova.dll
+C:\Users\admin\source\repos\NahodneSlova\bin\Debug\net5.0\NahodneSlova.pdb
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.AssemblyInfo.cs
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.dll
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\ref\NahodneSlova.dll
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.pdb
+C:\Users\admin\source\repos\NahodneSlova\obj\Debug\net5.0\NahodneSlova.genruntimeconfig.cache
