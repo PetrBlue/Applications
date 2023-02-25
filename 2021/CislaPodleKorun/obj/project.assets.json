@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\CislaPodleKorun\\CislaPodleKorun.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\CSharp\\2021\\CislaPodleKorun\\CislaPodleKorun.csproj",
       "projectName": "CislaPodleKorun",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\CislaPodleKorun\\CislaPodleKorun.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\CSharp\\2021\\CislaPodleKorun\\CislaPodleKorun.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\CislaPodleKorun\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\CSharp\\2021\\CislaPodleKorun\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
