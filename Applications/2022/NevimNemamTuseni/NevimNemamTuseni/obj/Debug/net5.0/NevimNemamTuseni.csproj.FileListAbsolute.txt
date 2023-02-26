@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.exe
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.deps.json
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.runtimeconfig.json
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.runtimeconfig.dev.json
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.dll
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\ref\NevimNemamTuseni.dll
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\bin\Debug\net5.0\NevimNemamTuseni.pdb
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.AssemblyInfo.cs
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.dll
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\ref\NevimNemamTuseni.dll
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.pdb
+C:\Users\admin\source\repos\NevimNemamTuseni\NevimNemamTuseni\obj\Debug\net5.0\NevimNemamTuseni.genruntimeconfig.cache

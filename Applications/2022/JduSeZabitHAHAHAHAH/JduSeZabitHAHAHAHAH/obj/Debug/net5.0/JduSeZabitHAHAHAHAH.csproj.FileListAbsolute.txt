@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.exe
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.deps.json
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.runtimeconfig.json
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.runtimeconfig.dev.json
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.dll
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\ref\JduSeZabitHAHAHAHAH.dll
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\bin\Debug\net5.0\JduSeZabitHAHAHAHAH.pdb
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.AssemblyInfo.cs
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.dll
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\ref\JduSeZabitHAHAHAHAH.dll
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.pdb
+C:\Users\admin\source\repos\JduSeZabitHAHAHAHAH\JduSeZabitHAHAHAHAH\obj\Debug\net5.0\JduSeZabitHAHAHAHAH.genruntimeconfig.cache

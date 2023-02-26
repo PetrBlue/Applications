@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\C Sharp\mazlicci\mazlicci\obj\Debug\net5.0\mazlicci.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\mazlicci\mazlicci\obj\Debug\net5.0\mazlicci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\mazlicci\mazlicci\obj\Debug\net5.0\mazlicci.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\mazlicci\mazlicci\obj\Debug\net5.0\mazlicci.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\mazlicci\mazlicci\obj\Debug\net5.0\mazlicci.csproj.CoreCompileInputs.cache

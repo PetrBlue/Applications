@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.exe
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.deps.json
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.runtimeconfig.json
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.runtimeconfig.dev.json
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.dll
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\ref\PrevodDoRimskychCislic.dll
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\bin\Debug\net5.0\PrevodDoRimskychCislic.pdb
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.dll
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\ref\PrevodDoRimskychCislic.dll
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.pdb
+C:\Users\admin\source\repos\PrevodDoRimskychCislic\PrevodDoRimskychCislic\obj\Debug\net5.0\PrevodDoRimskychCislic.genruntimeconfig.cache

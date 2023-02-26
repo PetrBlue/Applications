@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\bin\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.exe
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\bin\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.deps.json
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\bin\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\bin\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.dll
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\bin\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.pdb
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek_ElipsyDU.Form1.resources
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.dll
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\refint\PetrKejklicek-ElipsyDU.dll
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.pdb
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\PetrKejklicek-ElipsyDU.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\PetrKejklicek-ElipsyDU\PetrKejklicek-ElipsyDU\obj\Debug\net6.0-windows\ref\PetrKejklicek-ElipsyDU.dll
