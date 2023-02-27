@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.exe
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.deps.json
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.dll
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\ref\NakupniKosik.dll
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\bin\Debug\net5.0\NakupniKosik.pdb
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.dll
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\ref\NakupniKosik.dll
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.pdb
+C:\Users\admin\Desktop\C Sharp\NakupniKosik\NakupniKosik\obj\Debug\net5.0\NakupniKosik.genruntimeconfig.cache

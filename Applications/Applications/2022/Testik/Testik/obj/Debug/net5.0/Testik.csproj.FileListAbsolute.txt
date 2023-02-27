@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.exe
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.deps.json
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.dll
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\ref\Testik.dll
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\bin\Debug\net5.0\Testik.pdb
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.dll
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\ref\Testik.dll
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.pdb
+C:\Users\admin\Desktop\C Sharp\Testik\Testik\obj\Debug\net5.0\Testik.genruntimeconfig.cache

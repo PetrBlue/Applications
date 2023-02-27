@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\bin\Debug\net7.0\InterfaceFirst.exe
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\bin\Debug\net7.0\InterfaceFirst.deps.json
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\bin\Debug\net7.0\InterfaceFirst.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\bin\Debug\net7.0\InterfaceFirst.dll
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\bin\Debug\net7.0\InterfaceFirst.pdb
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.dll
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\refint\InterfaceFirst.dll
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.pdb
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\InterfaceFirst.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\InterfaceFirst\InterfaceFirst\obj\Debug\net7.0\ref\InterfaceFirst.dll

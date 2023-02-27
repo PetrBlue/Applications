@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\C Sharp\Automobilka\Automobilka\obj\Debug\net7.0\Automobilka.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Automobilka\Automobilka\obj\Debug\net7.0\Automobilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\Automobilka\Automobilka\obj\Debug\net7.0\Automobilka.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\Automobilka\Automobilka\obj\Debug\net7.0\Automobilka.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\Automobilka\Automobilka\obj\Debug\net7.0\Automobilka.csproj.CoreCompileInputs.cache

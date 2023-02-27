@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.exe
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.deps.json
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.dll
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\ref\prevodCelsiaNaFahrenhait.dll
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\bin\Debug\net5.0\prevodCelsiaNaFahrenhait.pdb
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.dll
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\ref\prevodCelsiaNaFahrenhait.dll
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.pdb
+C:\Users\admin\Desktop\C Sharp\prevodCelsiaNaFahrenhait\prevodCelsiaNaFahrenhait\obj\Debug\net5.0\prevodCelsiaNaFahrenhait.genruntimeconfig.cache

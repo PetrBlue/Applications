@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\bin\Debug\net7.0-windows\Obchudek2.exe
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\bin\Debug\net7.0-windows\Obchudek2.deps.json
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\bin\Debug\net7.0-windows\Obchudek2.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\bin\Debug\net7.0-windows\Obchudek2.dll
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\bin\Debug\net7.0-windows\Obchudek2.pdb
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.Form1.resources
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.dll
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\refint\Obchudek2.dll
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.pdb
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\Obchudek2.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\Obchudek2\Obchudek2\obj\Debug\net7.0-windows\ref\Obchudek2.dll

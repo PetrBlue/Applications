@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\bin\Debug\net6.0\autosakon.exe
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\bin\Debug\net6.0\autosakon.deps.json
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\bin\Debug\net6.0\autosakon.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\bin\Debug\net6.0\autosakon.dll
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\bin\Debug\net6.0\autosakon.pdb
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.dll
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\refint\autosakon.dll
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.pdb
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\autosakon.genruntimeconfig.cache
+C:\Users\admin\Desktop\C Sharp\autosakon\autosakon\obj\Debug\net6.0\ref\autosakon.dll

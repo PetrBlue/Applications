@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.exe
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.deps.json
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.runtimeconfig.json
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.dll
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\ref\CiselneRadyUkol.dll
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\bin\Debug\net5.0\CiselneRadyUkol.pdb
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.AssemblyInfo.cs
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.dll
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\ref\CiselneRadyUkol.dll
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.pdb
+C:\Users\admin\Desktop\Úkoly\CiselneRadyUkolPK\CiselneRadyUkol\obj\Debug\net5.0\CiselneRadyUkol.genruntimeconfig.cache

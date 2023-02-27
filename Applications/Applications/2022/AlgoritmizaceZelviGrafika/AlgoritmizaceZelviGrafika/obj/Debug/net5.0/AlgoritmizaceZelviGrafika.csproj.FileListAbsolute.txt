@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.AssemblyInfo.cs
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.exe
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.deps.json
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.runtimeconfig.json
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.dll
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\ref\AlgoritmizaceZelviGrafika.dll
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\bin\Debug\net5.0\AlgoritmizaceZelviGrafika.pdb
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.dll
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\ref\AlgoritmizaceZelviGrafika.dll
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.pdb
+C:\Users\admin\Desktop\C Sharp\AlgoritmizaceZelviGrafika\AlgoritmizaceZelviGrafika\obj\Debug\net5.0\AlgoritmizaceZelviGrafika.genruntimeconfig.cache

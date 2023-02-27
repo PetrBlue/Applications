@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.exe
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.deps.json
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.runtimeconfig.json
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.runtimeconfig.dev.json
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.dll
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\ref\BinaryCalculator.dll
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\bin\Debug\net5.0\BinaryCalculator.pdb
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.AssemblyInfo.cs
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.dll
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\ref\BinaryCalculator.dll
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.pdb
+C:\Users\admin\source\repos\BinaryCalculator\BinaryCalculator\obj\Debug\net5.0\BinaryCalculator.genruntimeconfig.cache
